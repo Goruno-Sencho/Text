@@ -1,4 +1,5 @@
 String title = "Superrr!!";
+float titleX, titleY, titleWidth, titleHeight;
 //
 //Display Geometry, Display orientation: landscape, portrait, or square
 fullScreen();
